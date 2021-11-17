@@ -1,4 +1,4 @@
-# ERP DHS
+# AGENDA DE CONTACTOS PERSONAL
 
 Sistema de Agenda Personal realizado con php, js el cual se conecta a una base de datos realizada en mysql, 
 
